@@ -4,7 +4,7 @@ Hello world! This is a grading chatbot prototype using streamlit and Anthropic. 
 
 
 # how to launch
-### 1. installing
+### 1. installing stuff
 
 open command prompt and run these lines of code. may take a few seconds or a minute:
 
